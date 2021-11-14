@@ -1,0 +1,12 @@
+*.xcframework/
+
+# Rust
+Cargo.lock
+target/
+
+# Swift
+.build/
+
+# Xcode
+.swiftpm/
+xcuserdata/
